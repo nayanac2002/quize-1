@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+   background-color:cadetblue;
+    font-display: inline;
+}
+
+body{
+    background-color: bisque;
+    margin: 10px;
+}
+
+a{
+    text-align: center;
+    text-decoration: underline;
+    display: inline;
+}
+
+h1{
+    text-align: center;
+    color: dimgrey;
+}
+
+.box {
+    display: flex; 
+    justify-content: center; 
+    width: 100%; 
+    margin: 20px 0; 
+}
+
+.box img {
+    width: 100px; 
+    height: auto; 
+    margin: 0 10px; 
+}
+
+footer{
+    background-color: white;
+}
